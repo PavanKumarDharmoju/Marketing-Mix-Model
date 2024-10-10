@@ -101,4 +101,4 @@ The ROI forecast provides a quarterly projection of future returns, helping the 
 
 ## Contributing
 
-We welcome contributions! Please fork the repository and submit a pull request.
+I welcome contributions! Please fork the repository and submit a pull request. You can reachout to me at dharmojupavankumar@gmail.com
