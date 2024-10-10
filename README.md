@@ -66,6 +66,7 @@ This Streamlit app is designed for marketing teams to visualize and forecast the
 
 ## Dashboard Overview
 ![Dashboard](./images/Dashboard.png)
+The Dashboard is also Deployed at https://marketingmixmodel.streamlit.app/, upload the dataset from this repositories data folder to see the analysis and forecasting.
 
 ### 1. Correlation Heatmap
 
