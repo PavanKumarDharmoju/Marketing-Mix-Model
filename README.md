@@ -65,6 +65,7 @@ This Streamlit app is designed for marketing teams to visualize and forecast the
 4. **ROI Forecasting**: The app will forecast ROI based on historical marketing spend and provide future projections.
 
 ## Dashboard Overview
+![Dashboard](./images/Dashboard.png)
 
 ### 1. Correlation Heatmap
 
