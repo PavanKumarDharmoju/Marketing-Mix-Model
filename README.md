@@ -1,6 +1,10 @@
 # Marketing Mix Model Dashboard with Feature Importance & ROI Forecasting
 
-This Streamlit app is designed for marketing teams to visualize and forecast the effectiveness of marketing campaigns. The app provides the following functionalities:
+This Streamlit app is designed for marketing teams to visualize and forecast the effectiveness of marketing campaigns.
+
+The Dashboard is also Deployed at https://marketingmixmodel.streamlit.app/, upload the dataset from the data folder to see the analysis and forecasting.
+
+The app provides the following functionalities:
 1. **Feature Importance** based on pre-trained models (Ridge, Bayesian Ridge, ElasticNet) for predicting customer response.
 2. **ROI Forecasting** using time-series analysis (ARIMA).
 3. **Data Visualizations** such as correlation heatmaps, box plots, and scatterplots to provide insights into key marketing metrics.
@@ -66,7 +70,6 @@ This Streamlit app is designed for marketing teams to visualize and forecast the
 
 ## Dashboard Overview
 ![Dashboard](./images/Dashboard.png)
-The Dashboard is also Deployed at https://marketingmixmodel.streamlit.app/, upload the dataset from this repositories data folder to see the analysis and forecasting.
 
 ### 1. Correlation Heatmap
 
